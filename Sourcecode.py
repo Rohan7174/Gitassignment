@@ -1,5 +1,6 @@
 a =10
 b=9
-total = a*b
+c=10
+total = (a+b)*c
 print (total)
 
