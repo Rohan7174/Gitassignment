@@ -1,5 +1,5 @@
-a =10
-b=9
+a =100
+b=90
 total = a*b
 print (total)
 
